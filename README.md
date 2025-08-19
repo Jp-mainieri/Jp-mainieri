@@ -4,4 +4,5 @@ I am João Pedro from Brazil. I am a Software Engineer student at PUC-Campinas, 
 ***
 
 ##Skils
+
 [![My Skills](https://skillicons.dev/icons?i=py,c,mysql,js,html,css,figma,ps&perline=3)](https://skillicons.dev)
