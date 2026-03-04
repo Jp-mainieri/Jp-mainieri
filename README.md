@@ -3,6 +3,6 @@ I am João Pedro from Brazil. I am a Software Engineer student at PUC-Campinas, 
 <hr>
 <p align="center">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,express,jest,py,c,mysql,tailwind,bootstrap,sass"
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,flutter,express,jest,py,c,dart,mysql,tailwind,bootstrap,sass"
   </a>
 <p>
