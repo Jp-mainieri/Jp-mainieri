@@ -12,7 +12,7 @@ PUC-Campinas, São Paulo, Brazil · Open to internships & freelance
 
 ### About
 
-I'm a Software Engineering student at PUC-Campinas, building projects at the intersection of web, mobile, and AI. Currently developing [DevBerry](https://devberry.com.br) — a Duolingo-style coding platform — and [Velpi](https://velpi.vercel.app), a WhatsApp-native catalog for small sellers. I also tutor Python to beginners.
+I'm a Software Engineering student at PUC-Campinas, building projects at the intersection of web, mobile, and AI. Currently developing [DevBerry](https://devberry.com.br) - a Duolingo-style coding platform, and [Velpi](https://velpi.vercel.app) - a WhatsApp-native catalog for small sellers. I also tutor Python to beginners.
 
 I care about clean architecture, practical solutions, and shipping things that actually work.
 
