@@ -52,7 +52,6 @@ Backend & Infra
 |---|---|---|
 |[**DevBerry**](https://devberry.com.br)  | Duolingo-style coding platform for SE students with spaced-repetition flashcards and in-browser code execution | Flutter Web · Firebase · Piston API |
 |[**Velpi**](https://velpi.vercel.app)  | Digital catalog + WhatsApp order automation for small sellers — zero backend | Next.js · Google Sheets API · Firebase · Vercel |
-| [**Completei**](https://scanini.pages.dev) | PWA for managing Panini FIFA WC 2026 sticker albums with AI scanning | Next.js · Cloudflare · Gemini API |
 | [**VizioAI**](https://github.com/Jp-mainieri/VizioAI) | Chrome extension for voice-based web navigation — built at a hackathon | JavaScript · HTML · Chrome API |
 <!-- | **TYKE** | University party ticket resale marketplace with custody-based security | Next.js · Supabase · Cloudflare |!-->
 
