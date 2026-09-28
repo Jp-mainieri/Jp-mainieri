@@ -1,96 +1,71 @@
-<div align="center">
+<!-- github.com/Jp-mainieri · plain text only, no images.
+     console = prompt lines get shell highlighting; diff = green podiums. -->
 
-# João Pedro Panza Mainieri
+```console
+$ neofetch
 
-**Software Engineering Student · Builder**
+                     .``:`
+            .`:=+**cccssssccc*+-`
+        .-*ssssssssssc***ccccs###s+:.            @jp-mainieri
+      .-c#scc*++++**c*+*****ccc**cs#s+`          -----------
+    .-*#c+=++==+*+++==+*+**+++++****c#s-         name     João Pedro Panza Mainieri
+   -cs#c==+-::::::`..``::::::::-==+=+css:.       role     AI Resident @ Instituto Eldorado
+  `s##s*=:`.... .        ....`::::-=+*sc*=`      also     full-stack & AI engineer, freelancer
+  =sc+==:....                .:-:`:--=cc-.       study    Software Engineering @ PUC-Campinas
+ -ccc+==` .      .... ......`::::::::=*-         base     Campinas, BR  ·  BR/IT citizen
+ :sc*++=`.```.    .``..    ````:----=**-         speaks   pt (native)  ·  en (Cambridge B2)
+ .*sccc=`-====-::`        `-+*******+*sc-
+  .+c*c=-:``:-=***+=:`.:-++*c*+====+++c**.       builds   agents that do things, not chat:
+    :==+-:-+:=c*+=`:-. -c+-=`=*+=*+-+*=*=                 tool calling, MCP, voice interfaces
+    `==-:  `:`:::` =:  `*c+= .`:--`:++cc`
+     -==-`        `:.  `*c*:    .``:=+**.        ai       LLM agents, MCP, voice, Gemini
+     .==-``.......``.  .-*s*`. .``:-+++:         web      TypeScript, Next.js, React
+      .`=:`..     ``.   -cc*:  .`:-++.           mobile   Flutter, Dart, PWA
+        -=:``.  .`=*====#%c:  .:-=+*-            back     Python, FastAPI, Java, Spring Boot
+        .==-::++****+*+-+**c*++*+**+             infra    Firebase, Docker, Vercel, Cloudflare
+         .==-:====--:::---=+-=+****.
+          .+=:::---==++====--==++*=              record   2x hackathon runner-up
+          `+==:`:::-=++=-``:==+++c-                       (Neuralake, DevReady)
+      .````+=-=:`.      ...`=******:``.
+``.```:` ` ++-=+++++++=++++*csccc*c=-=-::``.
 
-PUC-Campinas, São Paulo, Brazil · Open to internships & freelance
+$ tree ~/projects
 
-</div>
+~/projects
+├── devberry/          duolingo-style platform for learning to code
+│                      live with real users · java + python tracks
+│                      flutter web · firebase · piston
+├── neuramarket/       marketplace where AI agents find, create and
+│                      hire other agents (agent-to-agent) · mcp server
+│                      2nd place, Launch Hackathon Neuralake
+├── relay/             ambient voice agent for factory shift handoffs
+│                      listens, checks the critical checklist, speaks
+│                      once only if something was missed
+│                      python · fastapi · websocket · llm
+├── finn/              hands-free voice copilot for drivers
+│                      local wake word · full-duplex voice · mcp tools
+│                      next.js · typescript · porcupine (wasm)
+├── mesclainvest/      token trading platform · technical lead
+│                      flutter · firebase
+├── fast-attendance/   class attendance via rotating qr codes and
+│                      near-ultrasound audio (18-20 khz) · team of 5
+│                      spring boot · mongodb · docker · next.js
+├── completei/         world cup sticker album pwa, ai sticker scanning
+│                      gemini vision · cloudflare workers · mercado pago
+├── velpi/             whatsapp-native catalog for small sellers
+│                      next.js · google sheets api · zero backend
+└── cli-pirates/       real-time naval combat in the terminal
+                       python stdlib only, zero dependencies
+```
 
----
+```diff
+@@ cat ~/hackathons.log @@
++ 2nd   Launch Hackathon Neuralake ··························· neuramarket
++ 2nd   Comunidade Juninhos + Nortjobs ······················· devready
+  ...   Agents, Everywhere · AI Tinkerers, OpenAI sponsor ···· relay
+  ...   Google DeepMind / AI Tinkerers ······················· vizioai
+  ...   Don't Skip Challenge ································· silicon
+  ...   weHandle / Liga de TI PUC-Campinas ··················· trustcheck
+```
 
-### About
-
-I'm a Software Engineering student at PUC-Campinas, building projects at the intersection of web, mobile, and AI. Currently developing [DevBerry](https://devberry.com.br) - a Duolingo-style coding platform, and [Velpi](https://velpi.vercel.app) - a WhatsApp-native catalog for small sellers. I also tutor Python to beginners.
-
-I care about clean architecture, practical solutions, and shipping things that actually work.
-
----
-
-### Stack
-
-Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-Frontend & Mobile
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-Backend & Infra
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgresql-4169e1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
----
-
-### Projects
-
-| Project | Description | Stack |
-|---|---|---|
-|[**DevBerry**](https://devberry.com.br)  | Duolingo-style coding platform for SE students with spaced-repetition flashcards and in-browser code execution | Flutter Web · Firebase · Piston API |
-|[**Velpi**](https://velpi.vercel.app)  | Digital catalog + WhatsApp order automation for small sellers — zero backend | Next.js · Google Sheets API · Firebase · Vercel |
-| [**VizioAI**](https://github.com/Jp-mainieri/VizioAI) | Chrome extension for voice-based web navigation — built at a hackathon | JavaScript · HTML · Chrome API |
-<!-- | **TYKE** | University party ticket resale marketplace with custody-based security | Next.js · Supabase · Cloudflare |!-->
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jp-mainieri&show_icons=true&theme=dark&hide_border=true&count_private=true&hide_title=true)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jp-mainieri&layout=compact&hide_border=true&theme=dark)
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Jp-mainieri&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
-
-</div>
-
----
-
-### Contact
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-pedro-panza-mainieri)
-&nbsp;&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/jp_mainieri)
-&nbsp;&nbsp;
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/jp_mainieri)
-&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:joaopedro.mainieri@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-<sub>Updated June 2026</sub>
-</div>
+[`linkedin`](https://linkedin.com/in/joao-pedro-panza-mainieri) · [`email`](mailto:joaopedro.mainieri@gmail.com) · [`devberry.com.br`](https://devberry.com.br) · [`neuramarket`](https://github.com/Jp-mainieri/NeuraMarket) · [`relay`](https://github.com/Jp-mainieri/relay) · [`velpi`](https://velpi.vercel.app) · [`cli-pirates`](https://github.com/Jp-mainieri/CLI-PIRATES)
