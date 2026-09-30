@@ -29,6 +29,9 @@ $ neofetch
       .````+=-=:`.      ...`=******:``.
 ``.```:` ` ++-=+++++++=++++*csccc*c=-=-::``.
 
+```
+```console
+
 $ tree ~/projects
 
 ~/projects
