@@ -1,74 +1,36 @@
-<!-- github.com/Jp-mainieri · plain text only, no images.
-     console = prompt lines get shell highlighting; diff = green podiums. -->
+# João Pedro Panza Mainieri
 
 ```console
-$ neofetch
+$ whoami
+joão pedro · AI Resident @ Instituto Eldorado · Eng. de Software @ PUC-Campinas
 
-                     .``:`
-            .`:=+**cccssssccc*+-`
-        .-*ssssssssssc***ccccs###s+:.            @jp-mainieri
-      .-c#scc*++++**c*+*****ccc**cs#s+`          -----------
-    .-*#c+=++==+*+++==+*+**+++++****c#s-         name     João Pedro Panza Mainieri
-   -cs#c==+-::::::`..``::::::::-==+=+css:.       role     AI Resident @ Instituto Eldorado
-  `s##s*=:`.... .        ....`::::-=+*sc*=`      also     full-stack & AI engineer, freelancer
-  =sc+==:....                .:-:`:--=cc-.       study    Software Engineering @ PUC-Campinas
- -ccc+==` .      .... ......`::::::::=*-         base     Campinas, BR  ·  BR/IT citizen
- :sc*++=`.```.    .``..    ````:----=**-         speaks   pt (native)  ·  en (Cambridge B2)
- .*sccc=`-====-::`        `-+*******+*sc-
-  .+c*c=-:``:-=***+=:`.:-++*c*+====+++c**.       builds   agents that do things, not chat:
-    :==+-:-+:=c*+=`:-. -c+-=`=*+=*+-+*=*=                 tool calling, MCP, voice interfaces
-    `==-:  `:`:::` =:  `*c+= .`:--`:++cc`
-     -==-`        `:.  `*c*:    .``:=+**.        ai       LLM agents, MCP, voice, Gemini
-     .==-``.......``.  .-*s*`. .``:-+++:         web      TypeScript, Next.js, React
-      .`=:`..     ``.   -cc*:  .`:-++.           mobile   Flutter, Dart, PWA
-        -=:``.  .`=*====#%c:  .:-=+*-            back     Python, FastAPI, Java, Spring Boot
-        .==-::++****+*+-+**c*++*+**+             infra    Firebase, Docker, Vercel, Cloudflare
-         .==-:====--:::---=+-=+****.
-          .+=:::---==++====--==++*=              record   2x hackathon runner-up
-          `+==:`:::-=++=-``:==+++c-                       (Neuralake, DevReady)
-      .````+=-=:`.      ...`=******:``.
-``.```:` ` ++-=+++++++=++++*csccc*c=-=-::``.
-
-```
-```console
-
-$ tree ~/projects
-
-~/projects
-├── devberry/          duolingo-style platform for learning to code
-│                      live with real users · java + python tracks
-│                      flutter web · firebase · piston
-├── neuramarket/       marketplace where AI agents find, create and
-│                      hire other agents (agent-to-agent) · mcp server
-│                      2nd place, Launch Hackathon Neuralake
-├── relay/             ambient voice agent for factory shift handoffs
-│                      listens, checks the critical checklist, speaks
-│                      once only if something was missed
-│                      python · fastapi · websocket · llm
-├── finn/              hands-free voice copilot for drivers
-│                      local wake word · full-duplex voice · mcp tools
-│                      next.js · typescript · porcupine (wasm)
-├── mesclainvest/      token trading platform · technical lead
-│                      flutter · firebase
-├── fast-attendance/   class attendance via rotating qr codes and
-│                      near-ultrasound audio (18-20 khz) · team of 5
-│                      spring boot · mongodb · docker · next.js
-├── completei/         world cup sticker album pwa, ai sticker scanning
-│                      gemini vision · cloudflare workers · mercado pago
-├── velpi/             whatsapp-native catalog for small sellers
-│                      next.js · google sheets api · zero backend
-└── cli-pirates/       real-time naval combat in the terminal
-                       python stdlib only, zero dependencies
+$ cat foco.txt
+agentes que executam ações, não só conversam: tool calling · MCP · RAG · voz
 ```
 
-```diff
-@@ cat ~/hackathons.log @@
-+ 2nd   Launch Hackathon Neuralake ··························· neuramarket
-+ 2nd   Comunidade Juninhos + Nortjobs ······················· devready
-  ...   Agents, Everywhere · AI Tinkerers, OpenAI sponsor ···· relay
-  ...   Google DeepMind / AI Tinkerers ······················· vizioai
-  ...   Don't Skip Challenge ································· silicon
-  ...   weHandle / Liga de TI PUC-Campinas ··················· trustcheck
-```
+*I build AI agents that take actions: tool calling, MCP, RAG and voice.*
 
-[`linkedin`](https://linkedin.com/in/joao-pedro-panza-mainieri) · [`email`](mailto:joaopedro.mainieri@gmail.com) · [`devberry.com.br`](https://devberry.com.br) · [`neuramarket`](https://github.com/Jp-mainieri/NeuraMarket) · [`relay`](https://github.com/Jp-mainieri/relay) · [`velpi`](https://velpi.vercel.app) · [`cli-pirates`](https://github.com/Jp-mainieri/CLI-PIRATES)
+## Projetos de IA
+
+- **[aprendendo-agentes-ia](https://github.com/Jp-mainieri/aprendendo-agentes-ia)**: agente em 3 níveis (SDK, LangChain, LangGraph) com tool calling, memória, RAG e aprovação humana. *Em andamento.*
+- **[neuramarket](https://github.com/Jp-mainieri/NeuraMarket)** · 2º lugar, NeuraLake Launch Hackathon: marketplace em que agentes de IA contratam agentes, com servidor MCP próprio (24 ferramentas). Créditos simulados. [Demo](https://market-agent-sync.lovable.app) · [Vídeo](https://github.com/Jp-mainieri/NeuraMarket/blob/main/docs/demo.mp4)
+- **[finn](https://github.com/Jp-mainieri/finn)**: assistente de voz para o carro, com LLM, tool calling, A2A e wake word. *MVP em uso pessoal.* [Vídeo](https://github.com/Jp-mainieri/finn/blob/main/docs/demo.mp4)
+- **[relay](https://github.com/Jp-mainieri/relay)**: agente de passagem de turno com LLM, evidência literal e memória. *Protótipo de hackathon (AI Tinkerers & OpenAI).* [Vídeo](https://github.com/Jp-mainieri/relay/blob/main/docs/demo.mp4)
+- **[devready](https://github.com/juninhos-comunidade/devready)** · 2º lugar, Hackathon Juninhos & Nortjobs: preparação para entrevistas com Groq. Minha parte: autenticação, PDF e GitHub.
+- **[vizioai](https://github.com/Jp-mainieri/VizioAI)**: extensão do Chrome de navegação por voz com Gemini, para pessoas cegas. *Protótipo de hackathon (Google DeepMind & AI Tinkerers).*
+- **[emotional-dataset-pt-br](https://github.com/Jp-mainieri/emotional-dataset-pt-br)**: GoEmotions traduzido para português por LLM (54.263 comentários).
+- **[Olimpo](https://github.com/Jp-mainieri/residenciaIA-1-fakenews)**: detecção de fake news com SVM e spaCy. Minha parte: aprendizado supervisionado.
+
+## Em produção
+
+- **[devberry](https://devberry.com.br)**: plataforma no estilo Duolingo para aprender a programar (Java e Python), com usuários reais. Sou co-fundador. Código privado.
+
+## Mais
+
+[hacka-crawl](https://jp-mainieri.github.io/hacka-crawl/) (radar de hackathons) · [cli-pirates](https://github.com/Jp-mainieri/CLI-PIRATES) · [velpi](https://velpi.vercel.app)
+
+## Tecnologias
+
+IA: LLM, tool calling, MCP, RAG, LangGraph, Gemini, Groq · Web: TypeScript, Next.js, React · Mobile: Flutter · Backend: Python, FastAPI, Java, Spring Boot · Infra: Firebase, Docker, Vercel
+
+[LinkedIn](https://linkedin.com/in/joao-pedro-panza-mainieri) · [E-mail](mailto:joaopedro.mainieri@gmail.com)
