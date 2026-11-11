@@ -23,7 +23,7 @@ agentes que executam ações, não só conversam: tool calling · MCP · RAG · 
 
 ## Em produção
 
-- **[devberry](https://devberry.com.br)**: plataforma no estilo Duolingo para aprender a programar (Java e Python), com usuários reais. Código privado.
+- **[devberry](https://devberry.com.br)**: plataforma no estilo Duolingo para aprender a programar (Java e Python), com usuários reais. Sou co-fundador. Código privado.
 
 ## Mais
 
