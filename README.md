@@ -2,13 +2,13 @@
 
 ```console
 $ whoami
-joão pedro · AI Resident @ Instituto Eldorado · Eng. de Software @ PUC-Campinas
+João Pedro Panza Mainieri · Residente de IA @ Instituto Eldorado · Eng. de Software @ PUC-Campinas · Co-fundador @ devBerry.com.br
 
 $ cat foco.txt
-agentes que executam ações, não só conversam: tool calling · MCP · RAG · voz
+Agentes que executam ações, não só conversam
 ```
 
-*I build AI agents that take actions: tool calling, MCP, RAG and voice.*
+*Construo agentes de IA que geram impacto e resolvem problemas reais · Tool calling, MCP, RAG e voz.*
 
 ## Projetos de IA
 
@@ -19,12 +19,12 @@ agentes que executam ações, não só conversam: tool calling · MCP · RAG · 
 - **[devready](https://github.com/juninhos-comunidade/devready)** · [2º lugar](https://www.linkedin.com/feed/update/urn:li:activity:7498909843639148544/), Hackathon Juninhos & Nortjobs: preparação para entrevistas com Groq. Minha parte: autenticação, PDF e GitHub.
 - **[vizioai](https://github.com/Jp-mainieri/VizioAI)**: extensão do Chrome de navegação por voz com Gemini, para pessoas cegas. *Protótipo de hackathon (Google DeepMind & AI Tinkerers).*
 - **[emotional-dataset-pt-br](https://github.com/Jp-mainieri/emotional-dataset-pt-br)**: GoEmotions traduzido para português por LLM (54.263 comentários).
-- **[Olimpo](https://github.com/Jp-mainieri/residenciaIA-1-fakenews)**: detecção de fake news com SVM e spaCy. Minha parte: aprendizado supervisionado.
-- - **[trecho](https://viagens-jet.vercel.app)**: planejador de viagens colaborativo com agente de IA que monta o roteiro conversando com o grupo, com tool calling validado com Zod, aprovação humana e streaming da NeuraLake. *Em dupla.* Minha parte: o agente de IA.
+- **[olimpo](https://github.com/Jp-mainieri/residenciaIA-1-fakenews)**: detecção de fake news com SVM e spaCy. Minha parte: aprendizado supervisionado.
+- **[trechos](https://viagens-jet.vercel.app)**: planejador de viagens colaborativo com agente de IA que monta o roteiro conversando com o grupo, com tool calling validado com Zod, aprovação humana e streaming da NeuraLake. *Em dupla.* Minha parte: o agente de IA.
 
 ## Em produção
 
-- **[devberry](https://devberry.com.br)**: plataforma no estilo Duolingo para aprender a programar (Java e Python), com 167 usuários cadastrados (nov/2026). Sou co-fundador. Código privado.
+- **[devBerry](https://devberry.com.br)**: plataforma no estilo Duolingo para aprender a programar (Java e Python), com 167 usuários cadastrados (nov/2026). Sou co-fundador. Código privado.
 
 ## Mais
 
@@ -32,6 +32,11 @@ agentes que executam ações, não só conversam: tool calling · MCP · RAG · 
 
 ## Tecnologias
 
-IA: LLM, tool calling, MCP, RAG, LangGraph, Gemini, Groq · Web: TypeScript, Next.js, React · Mobile: Flutter · Backend: Python, FastAPI, Java, Spring Boot · Infra: Firebase, Docker, Vercel
+- **Inteligência Artificial:** LLM, tool calling, agentes (A2A, LangChain, LangGraph), MCP, RAG, interfaces de voz, SVM, spaCy, OpenAI SDK, Gemini, Groq, NeuraLake, Firecrawl
+- **Linguagens:** Python, TypeScript, JavaScript, Dart, Java, SQL
+- **Frameworks:** Next.js, React, FastAPI, Flutter, Spring Boot
+- **Dados:** PostgreSQL, Prisma, MongoDB, NoSQL, Chroma (banco vetorial), Firebase, Supabase
+- **Infra:** Docker, Google Cloud, Vercel, Git
+- **Idiomas:** português nativo · inglês B2 (certificado Cambridge)
 
 [LinkedIn](https://linkedin.com/in/joao-pedro-panza-mainieri) · [E-mail](mailto:joaopedro.mainieri@gmail.com)
