@@ -2,13 +2,11 @@
 
 ```console
 $ whoami
-João Pedro Panza Mainieri · Residente de IA @ Instituto Eldorado · Eng. de Software @ PUC-Campinas · Co-fundador @ devBerry.com.br
+João Pedro Panza Mainieri · Residente de IA @ Instituto Eldorado · Eng. de Software @ PUC-Campinas
 
 $ cat foco.txt
-Agentes que executam ações, não só conversam
+Construo agentes de IA que geram impacto e resolvem problemas reais, não só conversam
 ```
-
-*Construo agentes de IA que geram impacto e resolvem problemas reais · Tool calling, MCP, RAG e voz.*
 
 ## Projetos de IA
 
