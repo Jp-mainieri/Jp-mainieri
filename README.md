@@ -19,6 +19,7 @@ Construo agentes de IA que geram impacto e resolvem problemas reais, não só co
 - **[emotional-dataset-pt-br](https://github.com/Jp-mainieri/emotional-dataset-pt-br)**: GoEmotions traduzido para português por LLM (54.263 comentários).
 - **[olimpo](https://github.com/Jp-mainieri/residenciaIA-1-fakenews)**: detecção de fake news com SVM e spaCy. Minha parte: aprendizado supervisionado.
 - **[trechos](https://viagens-jet.vercel.app)**: planejador de viagens colaborativo com agente de IA que monta o roteiro conversando com o grupo, com tool calling validado com Zod, aprovação humana e streaming da NeuraLake. *Em dupla.* Minha parte: o agente de IA.
+- **[**procedural-bot-animations**](https://github.com/Jp-mainieri/procedural-bot-animations)**: engine TypeScript de animações procedurais para avatares SVG, com humores, reações, movimentação dos olhos e máquina de estados. Inclui uma skill para Claude Code e um port do mascote Berry do DevBerry.
 
 ## Em produção
 
