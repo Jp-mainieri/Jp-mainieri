@@ -20,6 +20,7 @@ agentes que executam ações, não só conversam: tool calling · MCP · RAG · 
 - **[vizioai](https://github.com/Jp-mainieri/VizioAI)**: extensão do Chrome de navegação por voz com Gemini, para pessoas cegas. *Protótipo de hackathon (Google DeepMind & AI Tinkerers).*
 - **[emotional-dataset-pt-br](https://github.com/Jp-mainieri/emotional-dataset-pt-br)**: GoEmotions traduzido para português por LLM (54.263 comentários).
 - **[Olimpo](https://github.com/Jp-mainieri/residenciaIA-1-fakenews)**: detecção de fake news com SVM e spaCy. Minha parte: aprendizado supervisionado.
+- - **[trecho](https://viagens-jet.vercel.app)**: planejador de viagens colaborativo com agente de IA que monta o roteiro conversando com o grupo, com tool calling validado com Zod, aprovação humana e streaming da NeuraLake. *Em dupla.* Minha parte: o agente de IA.
 
 ## Em produção
 
